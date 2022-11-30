@@ -1,0 +1,2 @@
+Motor de plantillas elegido: EJS
+Motivo: me resulto mas sencillo de comprender y utilizar
