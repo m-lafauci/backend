@@ -46,11 +46,5 @@
     "date": "09/12/2018, 21:46:29",
     "text": "Perfecto, paso por la tarde. Gracias.",
     "id": 8
-  },
-  {
-    "author": "mglaf@jajkaja.com",
-    "date": "30/11/2022, 19:41:07",
-    "text": "kakaka",
-    "id": 9
   }
 ]
