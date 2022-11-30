@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Images & Words",
+    "price": 20,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_903591-MLA26372401894_112017-O.webp",
+    "id": 1
+  },
+  {
+    "title": "Change of Seasons",
+    "price": 24,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_441725-MLA25475074530_032017-O.webp",
+    "id": 2
+  },
+  {
+    "title": "Train of Thought",
+    "price": 24,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_956188-MLA47258891725_082021-O.webp",
+    "id": 3
+  },
+  {
+    "title": "Octavarium",
+    "price": 22,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_743096-MLA48596634918_122021-O.webp",
+    "id": 4
+  },
+  {
+    "title": "Scenes From a Memory",
+    "price": 25,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_792106-MLA48331239720_112021-O.webp",
+    "id": 5
+  },
+  {
+    "title": "Systematic Chaos",
+    "price": "23",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_871588-MLA49561368421_042022-O.webp",
+    "id": 6
+  }
+]

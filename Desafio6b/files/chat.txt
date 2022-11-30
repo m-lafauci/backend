@@ -1,0 +1,56 @@
+[
+  {
+    "author": "buyer@gmail.com",
+    "date": "09/12/2018, 18:43:25",
+    "text": "Buen día",
+    "id": 1
+  },
+  {
+    "author": "buyer@gmail.com",
+    "date": "09/12/2018, 18:46:47",
+    "text": "Estoy buscando el album Scenes From a Memory de Dream Theater. Me puede decir si lo tienen en stock?",
+    "id": 2
+  },
+  {
+    "author": "vendor@hotmail.com",
+    "date": "09/12/2018, 21:46:18",
+    "text": "Buenos dias, gracias por comunicarte con Music Discs",
+    "id": 3
+  },
+  {
+    "author": "vendor@hotmail.com",
+    "date": "09/12/2018, 21:46:20",
+    "text": "Aguardeme, lo consulto en el Sistema",
+    "id": 4
+  },
+  {
+    "author": "vendor@hotmail.com",
+    "date": "09/12/2018, 21:46:21",
+    "text": "Si, tenemos el disco que menciona.",
+    "id": 5
+  },
+  {
+    "author": "buyer@gmail.com",
+    "date": "09/12/2018, 21:46:24",
+    "text": "Me puede decir el precio?",
+    "id": 6
+  },
+  {
+    "author": "vendor@hotmail.com",
+    "date": "09/12/2018, 21:46:25",
+    "text": "El precio es 24.99",
+    "id": 7
+  },
+  {
+    "author": "buyer@gmail.com",
+    "date": "09/12/2018, 21:46:29",
+    "text": "Perfecto, paso por la tarde. Gracias.",
+    "id": 8
+  },
+  {
+    "author": "mglaf@jajkaja.com",
+    "date": "30/11/2022, 19:41:07",
+    "text": "kakaka",
+    "id": 9
+  }
+]
